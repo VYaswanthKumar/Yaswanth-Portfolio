@@ -233,7 +233,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background:  url("C:/iPortfolio/Portfolio/assets/css/yaswanth.bg.pic.JPEG") top center;
+  background:  url('./css/yaswanth.bg.pic.JPEG') top center;
   background-size: cover;
 }
 
